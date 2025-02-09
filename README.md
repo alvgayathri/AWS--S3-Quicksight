@@ -21,7 +21,7 @@ This project demonstrates how to visualize data using Amazon QuickSight and Amaz
 1. **Open AWS Console**: Log in to your AWS account.
 2. **Create S3 Bucket**: 
    - Search for S3 in the AWS console.
-   - Create a new bucket named `aws-project-amar`.
+   - Create a new bucket named `aws-project-gayathri`.
 3. **Upload Data**:
    - Upload the Amazon bestseller dataset and a manifest JSON file to the S3 bucket.
 
